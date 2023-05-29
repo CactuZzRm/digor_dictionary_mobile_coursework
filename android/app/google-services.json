@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "912447179763",
+    "project_id": "digor-dictionary",
+    "storage_bucket": "digor-dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912447179763:android:afff69e189afdb35312086",
+        "android_client_info": {
+          "package_name": "com.example.digor_dictionary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76JgCzGStFVbxdtPBCjc3QWg0jrmUpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912447179763-na0s11hv2l30joj44qvoi1dcgqdok57g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digorDictionary"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912447179763:android:340764eb9d6b2e75312086",
+        "android_client_info": {
+          "package_name": "com.slay_mob.digoron_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76JgCzGStFVbxdtPBCjc3QWg0jrmUpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912447179763-na0s11hv2l30joj44qvoi1dcgqdok57g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digorDictionary"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912447179763:android:6293eae7bcd2284d312086",
+        "android_client_info": {
+          "package_name": "com.slay_mob.digoron_mobile_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC76JgCzGStFVbxdtPBCjc3QWg0jrmUpNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912447179763-so7bqppkdlrljs1qproekkej8jdfgie4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "912447179763-na0s11hv2l30joj44qvoi1dcgqdok57g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.digorDictionary"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
